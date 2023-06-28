@@ -39,4 +39,4 @@ Wireshark отправляет пакеты по протоколу ICMP с по
 
 Для упражнения выбрал Саранский расчетный центр http://lc.irc-saransk.ru/
 
-![wireshark-PASS](wireshark_PASS.png)
+![wireshark-PASS](wireshark_pass.png)
